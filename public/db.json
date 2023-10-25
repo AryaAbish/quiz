@@ -13,7 +13,7 @@
             "question":" Which company developed JavaScript?",
             "options":[
                 {"option1":"Netscape","iscorrect":"true"},
-                {"option1":"Bell labs","iiscorrect":"false"},
+                {"option1":"Bell labs","iscorrect":"false"},
                 {"option1":"Sun Microsystems","iscorrect":"false"},
                 {"option1":"IBM","iscorrect":"false"}
             ]
@@ -22,7 +22,7 @@
             "question":" Inside which HTML element do we put the JavaScript?",
             "options":[
                 {"option1":"<script>","iscorrect":"true"},
-                {"option1":"<head>","iiscorrect":"false"},
+                {"option1":"<head>","iscorrect":"false"},
                 {"option1":"<meta>","iscorrect":"false"},
                 {"option1":"<style>","iscorrect":"false"}
             ]
@@ -31,7 +31,7 @@
             "question":"Which of the following are advantages of JavaScript?",
             "options":[
                 {"option1":"Less server interaction","iscorrect":"false"},
-                {"option1":"Increased interactivity","iiscorrect":"false"},
+                {"option1":"Increased interactivity","iscorrect":"false"},
                 {"option1":"Richer interfaces","iscorrect":"false"},
                 {"option1":"All of the above","iscorrect":"true"}
             ]
@@ -40,7 +40,7 @@
             "question":"Microsoft has developed a popular HTML editor called?",
             "options":[
                 {"option1":"DreamWeaver","iscorrect":"false"},
-                {"option1":"FrontPage","iiscorrect":"true"},
+                {"option1":"FrontPage","iscorrect":"true"},
                 {"option1":"HomeSite","iscorrect":"false"},
                 {"option1":"Macromedia","iscorrect":"false"}
             ]
